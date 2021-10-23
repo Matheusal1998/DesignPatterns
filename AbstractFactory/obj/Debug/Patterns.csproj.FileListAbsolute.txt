@@ -1,0 +1,7 @@
+D:\Users\maraujo\source\repos\DesignPatterns\AbstractFactory\obj\Debug\Patterns.csproj.AssemblyReference.cache
+D:\Users\maraujo\source\repos\DesignPatterns\AbstractFactory\obj\Debug\Patterns.csproj.CoreCompileInputs.cache
+D:\Users\maraujo\source\repos\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\Users\maraujo\source\repos\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\Users\maraujo\source\repos\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\Users\maraujo\source\repos\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\Users\maraujo\source\repos\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
